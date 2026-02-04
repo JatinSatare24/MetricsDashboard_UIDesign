@@ -1,6 +1,6 @@
 ***
 
-### 2. UI Dashboard Design Practice
+### UI Dashboard Design Practice
 ```markdown
 # UI Dashboard Practice 📊
 
